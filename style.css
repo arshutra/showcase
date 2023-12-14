@@ -76,6 +76,7 @@ body {
     color: white;
     text-decoration: none;
     padding: 4px 10px;
+    
 }
 
 .navbar div ol li {
@@ -411,12 +412,18 @@ footer {
     .show div {
         width: 400px;
     }
+    .show div {
+        width: 400px;
+    }
 
 }
 
 
 @media screen and (max-width:450px) {
 
+    .to-top{
+        top: 80vh;
+    }
     .show div {
         width: 300px;
     }
