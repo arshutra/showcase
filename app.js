@@ -1,7 +1,7 @@
 
 
 
-// ham
+// hamb
 
 function openmenu() {
   document.getElementById('mobile-nav').classList.toggle('active')
@@ -15,6 +15,7 @@ function play() {
   var audio = document.getElementById("audio");
   audio.play();
 }
+
 
 
 
